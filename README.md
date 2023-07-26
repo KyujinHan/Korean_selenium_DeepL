@@ -22,7 +22,7 @@ Kyujinpy_Ko_translation_deepL.ipynb
 
 
 # Blog
-[Kyujinpy - DeepL]([https://kyujinpy.tistory.com/](https://kyujinpy.tistory.com/94))
+[Kyujinpy - DeepL](https://kyujinpy.tistory.com/94)
 
 
 # Bug-report
