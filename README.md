@@ -1,5 +1,5 @@
 # Korean_selenium_DeepL
-DeepL을 통한 한국 번역 자동화 코드
+DeepL을 통한 한국 번역 자동화 코드(7/27 update)
 
 # Set-UP
 0) Download Chrome website.  
@@ -23,3 +23,11 @@ Kyujinpy_Ko_translation_deepL.ipynb
 
 # Blog
 [Kyujinpy](https://kyujinpy.tistory.com/)
+
+
+# Bug-report
+```
+When there are some bugs, you contact me through blog.
+Then, i will fix.
+Thank you!
+```
