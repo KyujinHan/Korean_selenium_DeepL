@@ -1,11 +1,17 @@
 # Korean_selenium_DeepL
 DeepL을 통한 한국 번역 자동화 코드
 
-# Introduction
+# Set-UP
 0) Download Chrome website.  
 1) First check your chrome version.  
 2) Download [chromedriver](https://chromedriver.chromium.org/downloads). (Must check your chrome version and check driver verion)  
-
+3) Unzip file and input **chromedriver.exe** like below
+```
+Environment
+├── Kyujinpy_Ko_translation_deepL.ipynb
+└── chromedriver.exe
+```
+  
 # Implementation
 ```
 Kyujinpy_Ko_translation_deepL.ipynb
