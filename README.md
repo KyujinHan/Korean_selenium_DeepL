@@ -12,4 +12,4 @@ Kyujinpy_Ko_translation_deepL.ipynb
 ```
 
 # Sample Result
-
+![image](https://github.com/KyujinHan/Korean_selenium_DeepL/assets/98331298/762886c9-6b51-410a-aae0-39b8fa9d56ce)
