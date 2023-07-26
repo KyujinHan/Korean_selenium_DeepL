@@ -28,6 +28,6 @@ Kyujinpy_Ko_translation_deepL.ipynb
 # Bug-report
 ```
 When there are some bugs, you contact me through blog.
-Then, i will fix.
+Then, I will fix.
 Thank you!
 ```
