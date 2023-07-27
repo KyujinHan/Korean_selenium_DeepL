@@ -1,5 +1,5 @@
 # Korean_selenium_DeepL
-DeepL을 통한 한국 번역 자동화 코드(7/27 update)
+DeepL을 통한 한국 번역 자동화 코드(~7/28 update)
 
 # Set-UP
 0) Download Chrome website.  
@@ -18,7 +18,7 @@ Kyujinpy_Ko_translation_deepL.ipynb
 Kyujinpy_Ko_translation_deepL_v2.ipynb
 ```
 - Version2: add *bug_count* variable.
-
+- Version3: add *Auto remove emoji*
 
 # Sample Result
 ![image](https://github.com/KyujinHan/Korean_selenium_DeepL/assets/98331298/762886c9-6b51-410a-aae0-39b8fa9d56ce)
