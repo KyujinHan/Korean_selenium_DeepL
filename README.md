@@ -16,6 +16,7 @@ Environment
 ```
 Kyujinpy_Ko_translation_deepL.ipynb
 Kyujinpy_Ko_translation_deepL_v2.ipynb
+Kyujinpy_Ko_translation_deepL_v3.ipynb
 ```
 - Version2: add *bug_count* variable.
 - Version3: add *Auto remove emoji*
